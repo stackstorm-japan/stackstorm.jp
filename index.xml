@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日本 StackStorm ユーザ会 / StackStorm User Group, Japan on 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</title>
+    <link>https://stackstorm.jp/</link>
+    <description>Recent content in 日本 StackStorm ユーザ会 / StackStorm User Group, Japan on 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>2017 ~ StackStorm User Group, Japan</copyright>
+    <lastBuildDate>Fri, 29 Dec 2017 17:10:13 +0900</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+      
+    
+      
+    
+      
+    
+      
+        
+          <item>
+            <title>StackStormユーザ会 各種チャネルについてのご案内</title>
+            <link>https://stackstorm.jp/blog/2017/10/25/stackstorm%E3%83%A6%E3%83%BC%E3%82%B6%E4%BC%9A-%E5%90%84%E7%A8%AE%E3%83%81%E3%83%A3%E3%83%8D%E3%83%AB%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/</link>
+            <pubDate>Wed, 25 Oct 2017 00:00:00 +0900</pubDate>
+            
+            <guid>https://stackstorm.jp/blog/2017/10/25/stackstorm%E3%83%A6%E3%83%BC%E3%82%B6%E4%BC%9A-%E5%90%84%E7%A8%AE%E3%83%81%E3%83%A3%E3%83%8D%E3%83%AB%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/</guid>
+            <description>
+
+&lt;p&gt;国内StackStormユーザ会の各種コミュニケーションチャネルについて、以下にまとめてご案内します。&lt;/p&gt;
+
+&lt;p&gt;ぜひ積極的な投稿・ディスカッションをお願いいたします。&lt;/p&gt;
+
+&lt;h3 id=&#34;slack上の日本語コミュニティ&#34;&gt;Slack上の日本語コミュニティ&lt;/h3&gt;
+
+&lt;p&gt;SlackのStackstorm-communityチームに登録されている方は、下記よりそのままご参加いただけます。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackstorm-community.slack.com/&#34;&gt;#community-japan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;まだstackstorm-communityチームに登録されていない方は、下記よりご登録ください。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackstorm.com/community-signup&#34;&gt;stackstorm.com/community-signup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;メーリングリスト-google-groups&#34;&gt;メーリングリスト＠Google Groups&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://groups.google.com/forum/#!forum/stackstorm-user-group—japan&#34;&gt;https://groups.google.com/forum/#!forum/stackstorm-user-group—japan&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;(投稿用メールアドレス：stackstorm-user-group—japan@googlegroups.com)&lt;/p&gt;
+</description>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>第三回 StackStorm 勉強会開催！</title>
+            <link>https://stackstorm.jp/blog/2017/10/11/%E7%AC%AC%E4%B8%89%E5%9B%9E-stackstorm-%E5%8B%89%E5%BC%B7%E4%BC%9A%E9%96%8B%E5%82%AC/</link>
+            <pubDate>Wed, 11 Oct 2017 17:13:14 +0900</pubDate>
+            
+            <guid>https://stackstorm.jp/blog/2017/10/11/%E7%AC%AC%E4%B8%89%E5%9B%9E-stackstorm-%E5%8B%89%E5%BC%B7%E4%BC%9A%E9%96%8B%E5%82%AC/</guid>
+            <description>&lt;p&gt;日時：2017年10月11日（水）19:00〜22:00（開場:18:00）&lt;/p&gt;
+
+&lt;p&gt;会場：ソフトバンク本社 東京都港区東新橋1-9-1 (東京汐留ビルディング25F)&lt;/p&gt;
+
+&lt;p&gt;主催：ソフトバンク株式会社 Tech Night @Shiodome 実行委員会、StackStorm User Group – Japan&lt;/p&gt;
+
+&lt;p&gt;詳細：&lt;a href=&#34;http://www.brocade.com/ja/about-us/events/stackstorm.html&#34;&gt;http://www.brocade.com/ja/about-us/events/stackstorm.html&lt;/a&gt;&lt;/p&gt;
+</description>
+          </item>
+        
+      
+    
+  </channel>
+</rss>
