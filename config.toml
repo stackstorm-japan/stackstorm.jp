@@ -1,0 +1,44 @@
+baseURL = "https://stackstorm.jp"
+languageCode = "en-us"
+title = "日本 StackStorm ユーザ会 / StackStorm User Group, Japan"
+theme = "bootswatch"
+paginate = 10
+
+[params]
+    # language code for your website
+    languagecode = "ja"
+
+    # name of the site author; used in header meta information
+    author = "Hiroyasu.OHYAMA"
+
+    # copyright text; used in footer
+    copyright = "2017 ~ StackStorm User Group, Japan"
+
+    # social links, used in footer, these must be full URLs.
+    twitter     = "https://twitter.com/stack_storm"
+    github      = "https://github.com/StackStorm/st2"
+
+    # show default summaries on the frontpage or not
+    use_summaries = false
+
+[params.strings]
+    date_format = '02.01.2006'
+
+[params.theme]
+    inverse = false
+    name = "united"
+
+[[menu.main]]
+    name = "StackStorm について"
+    url = "/about_stackstorm"
+    weight = 1
+
+[[menu.main]]
+    name = "ユーザ会について"
+    url = "/about_this_community"
+    weight = 2
+
+[[menu.main]]
+    name = "お問い合わせ"
+    url = "/contact_us"
+    weight = 3

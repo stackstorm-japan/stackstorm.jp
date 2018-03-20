@@ -1,0 +1,8 @@
+# Editor Saves
+*~
+\#*\#
+*.swp
+.vscode
+
+# generated contents
+public/

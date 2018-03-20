@@ -17,7 +17,7 @@
 
 まずはオフィシャルページのリポジトリを [Fork](https://help.github.com/articles/fork-a-repo/) した後、`git clone` でローカルリポジトリを作成します（ユーザ `userlocalhost` のローカルリポジトリを作成する場合）
 ```Bash
-$ git clone git@github.com:userlocalhost/official-page.git
+$ git clone git@github.com:stackstorm-japan/official-page.git
 ```
 
 取得したローカルリポジトリのトップディレクトリに移動し、`[hugo new]` コマンドによって [コンテンツファイル](https://gohugo.io/content-management/organization/) を生成します。
