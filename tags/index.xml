@@ -5,11 +5,19 @@
     <link>https://stackstorm.jp/tags/</link>
     <description>Recent content in Tags on 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <copyright>2017 ~ StackStorm User Group, Japan</copyright>
-    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
     
+	<atom:link href="https://stackstorm.jp/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>勉強会</title>
+      <link>https://stackstorm.jp/tags/%E5%8B%89%E5%BC%B7%E4%BC%9A/</link>
+      <pubDate>Wed, 11 Oct 2017 17:13:14 +0900</pubDate>
       
+      <guid>https://stackstorm.jp/tags/%E5%8B%89%E5%BC%B7%E4%BC%9A/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

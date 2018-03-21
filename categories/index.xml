@@ -5,9 +5,10 @@
     <link>https://stackstorm.jp/categories/</link>
     <description>Recent content in Categories on 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <copyright>2017 ~ StackStorm User Group, Japan</copyright>
-    <atom:link href="/categories/" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="https://stackstorm.jp/categories/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>
