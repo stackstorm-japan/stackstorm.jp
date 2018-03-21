@@ -1,0 +1,10 @@
+language: go
+install:
+  - go get -v github.com/spf13/hugo
+script: 
+  - hugo
+after_success:
+  - scripts/deploy_gh_pages.sh
+branches:
+  only:
+    - master
