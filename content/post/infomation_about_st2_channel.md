@@ -1,6 +1,7 @@
 ---
 title: "StackStormユーザ会 各種チャネルについてのご案内"
 date: 2017-10-25T00:00:00+09:00
+author_picture_url: https://github.com/userlocalhost.png
 ---
 国内StackStormユーザ会の各種コミュニケーションチャネルについて、以下にまとめてご案内します。
 

@@ -3,7 +3,7 @@
     <div class="container">
         {{ $paginator := .Paginate (where .Data.Pages "Section" "in" "post link") }}
         {{ range $paginator.Pages }}
-            {{ .Render "frontpage-post" }}
+            {{ .Render "post-item"}}
         {{ end }}
 	</div>
     <div class="container">

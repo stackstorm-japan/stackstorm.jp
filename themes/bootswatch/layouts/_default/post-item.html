@@ -1,0 +1,27 @@
+{{ if eq .Type "post" }}
+<div class='col-md-4 post_item'>
+  <div class="w3-card-4">
+    <header class='23-container' style='padding: 10px 0px;'>
+
+    <div class="w3-container" style='padding: 10px;'>
+      <a href='{{ .Permalink }}'><h4>{{ .Title }}</h4></a>
+				{{ range $i, $e :=.Params.tags }}
+					{{if $i}} , {{end}}
+          <a href="/tags/{{ . | urlize }}"><span class='label label-primary'>{{ . }}</span></a>
+				{{ end }}
+    </div>
+    </header>
+    <a href='{{ .Permalink }}'><img src="{{ if .Params.picture_url }}{{ .Params.picture_url }}{{ else }} /img/no_image_wide.png {{ end }}" alt="Norway" style='width: 100%; height: auto; padding: 10px'/></a>
+
+    <div class="w3-container" style='padding: 10px;'>
+      <p>{{ .Content | truncate 100 }}</p>
+      <b></b>
+    </div>
+    <footer class="w3-container" style='padding: 10px;'>
+      <img src="{{ if .Params.author_picture_url }}{{ .Params.author_picture_url }}{{ else }} /img/no_image_icon.png {{ end }}" alt="Avatar" class="w3-left w3-circle" style='width: 45px;margin: 0px 10px 0px 0px;'>
+      <span class="label label-primary">{{ if .Site.Params.strings.date_format }}{{ .Date.Format .Site.Params.strings.date_format }}{{ else }}{{ .Date.Format "2006/01/02" }}{{ end }}</span>
+      <p class='text-muted'>{{ if .Params.author }}{{ .Params.author }}{{ else }}{{ .GitInfo.AuthorName }}{{ end }}</p>
+    </footer>
+  </div>
+</div>
+{{ end }}
