@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "日本 StackStorm ユーザ会 / StackStorm User Group, Japan"
 theme = "bootswatch"
 paginate = 10
+enableGitInfo = "True"
 
 [params]
     # language code for your website
@@ -22,7 +23,7 @@ paginate = 10
     use_summaries = false
 
 [params.strings]
-    date_format = '02.01.2006'
+    date_format = '2006/01/02'
 
 [params.theme]
     inverse = false
