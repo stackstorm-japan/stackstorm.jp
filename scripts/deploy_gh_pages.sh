@@ -22,6 +22,9 @@ cd gh-pages
 rm -fR *
 cp -r ../public/* ./
 
+# set custom domain for the GitHub Pages of this repository
+echo ${GH_CUSTOM_DOMAIN} > CNAME
+
 # commit to remote repository on the gh-pages branch
 git add .
 git commit -m "Updates gh-pages because of updating the master branch."
