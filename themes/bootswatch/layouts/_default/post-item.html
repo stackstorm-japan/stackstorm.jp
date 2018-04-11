@@ -3,7 +3,7 @@
   <div class="w3-card-4">
     <header class='23-container' style='padding: 10px 0px;'>
 
-    <div class="w3-container" style='padding: 10px;'>
+    <div class="w3-container" style='padding: 5px 10px;'>
       <a href='{{ .Permalink }}'><h4>{{ .Title }}</h4></a>
 				{{ range $i, $e :=.Params.tags }}
 					{{if $i}} , {{end}}
@@ -11,7 +11,7 @@
 				{{ end }}
     </div>
     </header>
-    <a href='{{ .Permalink }}'><img src="{{ if .Params.picture_url }}{{ .Params.picture_url }}{{ else }} /img/no_image_wide.png {{ end }}" alt="Norway" style='width: 100%; height: auto; padding: 10px'/></a>
+    <a href='{{ .Permalink }}'><img src="{{ if .Params.picture_url }}{{ .Params.picture_url }}{{ else }} /img/no_image_wide.png {{ end }}" alt="Norway" style='width: 100%; height: auto; padding: 0px 10px'/></a>
 
     <div class="w3-container" style='padding: 10px;'>
       <p>{{ .Content | truncate 100 }}</p>
