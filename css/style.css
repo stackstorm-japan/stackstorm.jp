@@ -10,6 +10,6 @@
   background-color: #f58220;
 }
 
-li a, p a {
+.content a  {
   text-decoration: underline;
 }
