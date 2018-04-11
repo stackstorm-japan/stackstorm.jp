@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://stackstorm.jp/post/20180411_tech_night_8_shiodome/</loc>
+    <lastmod>2018-04-11T12:45:12+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://stackstorm.jp/contact_us/</loc>
     <lastmod>2018-03-20T14:52:46+09:00</lastmod>
   </url>
@@ -34,7 +39,7 @@
   
   <url>
     <loc>https://stackstorm.jp/post/</loc>
-    <lastmod>2018-04-05T16:55:40+09:00</lastmod>
+    <lastmod>2018-04-11T12:45:12+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -45,13 +50,13 @@
   
   <url>
     <loc>https://stackstorm.jp/tags/%E5%8B%89%E5%BC%B7%E4%BC%9A/</loc>
-    <lastmod>2018-04-05T16:55:40+09:00</lastmod>
+    <lastmod>2018-04-11T12:45:12+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://stackstorm.jp/</loc>
-    <lastmod>2018-03-20T14:52:46+09:00</lastmod>
+    <lastmod>2018-04-11T12:45:12+09:00</lastmod>
     <priority>0</priority>
   </url>
   

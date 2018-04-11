@@ -6,10 +6,23 @@
     <description>Recent content in 勉強会 on 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Oct 2017 17:13:14 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 11 Apr 2018 10:51:48 +0900</lastBuildDate>
     
 	<atom:link href="https://stackstorm.jp/tags/%E5%8B%89%E5%BC%B7%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tech Night #8 / StackStorm 開催決定</title>
+      <link>https://stackstorm.jp/post/20180411_tech_night_8_shiodome/</link>
+      <pubDate>Wed, 11 Apr 2018 10:51:48 +0900</pubDate>
+      
+      <guid>https://stackstorm.jp/post/20180411_tech_night_8_shiodome/</guid>
+      <description> ソフトバンクさま主催の Tech Night @Shiodome #8 のテーマが「StackStorm」になりました。
+全セッションで StackStorm の開発・運用に精通されたエキスパートの方々からのお話を聞くことができます。
+また今回最大の目玉として、StackStorm のプロダクトマネージャー Lindsay Hill が来日・登壇されます！
+StackStorm を使われている方はもちろん、そうでない方も是非いらしてください。
+実施詳細  日程：2018/05/29(火) 場所：東京都港区東新橋1-9-2 汐留住友ビル14階 (地図) 時間：19:00 開始 (18:00 ~ 開場・受付開始) 参加費：無料 詳細・参加申し込み：https://techsio.connpass.com/event/83273/  </description>
+    </item>
     
     <item>
       <title>第三回 StackStorm 勉強会開催！</title>
