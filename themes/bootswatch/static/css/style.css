@@ -9,3 +9,7 @@
 .label-primary {
   background-color: #f58220;
 }
+
+.content a  {
+  text-decoration: underline;
+}
