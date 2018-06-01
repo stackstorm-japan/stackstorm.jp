@@ -1,19 +1,18 @@
 ---
-title: "第4回 StackStorm 勉強会レポート"
-date: 2018-05-30T17:56:18+09:00
+title: "第四回 StackStorm 勉強会レポート"
+date: 2018-06-01T10:30:18+09:00
 tags:
   - 勉強会
-draft: true
 author: Hiroyasu OHYAMA
 author_picture_url: https://github.com/userlocalhost.png
+picture_url: https://raw.githubusercontent.com/userlocalhost/official-page/master/static/img/20180529_st2_conference.png
 ---
-
-ソフトバンクさま主催の [TechNight @Shiodome](https://techsio.connpass.com/event/83273/) にて、第4回 StackStorm 勉強会を開催していただきました。
+ソフトバンクさま主催の [TechNight @Shiodome](https://techsio.connpass.com/event/83273/) にて、第四回 StackStorm 勉強会を開催していただきました。
 
 多数のご来場いただきありがとうございました。\\
 また大変興味深い発表をしてくださった発表者の皆さま、会場をご提供くださいましたソフトバンクさま、差し入れをくださいました Extreme Networks さまに改めて感謝申し上げます。
 
-以下、それぞれの発表者（敬称略）の資料とサマリになります。
+以下、それぞれの発表者（敬称略）の資料とサマリになります。各セッションの内容については [@w4yh さんのレポート記事](http://w4yh.hatenablog.com/entry/2018/06/01/043757) が詳しいので併せてご覧ください。
 
 ---
 ### 明日からできる、st2のActionの作り方
@@ -39,21 +38,19 @@ Action の実装方法について詳しく解説いただきました。詳し�
 
 社内の情報システム部門が通常行っている PC の紛失に伴う VPN 証明書の失効処理を IFTTT 化させることで、それまで平日/日中対応だった紛失対応を 24-365 で自動対応化でき、運用コストが低減しセキュリティレベルが向上したというお話をしていただきました。
 
-<資料>
-
 ---
 ### NW機器・サーバ機器の設定自働化に向けたst2機能の活用案
 **(福田 晴元 / NTTソフトウエアイノベーションセンタ)**
 
-StackStorm v2.4.0 から導入されたワークフロー処理を中断＆再開する機能がアプライアンスのデプロイをする際に良かったというお話をしていただきました。
+StackStorm v2.4.0 から導入された [ワークフロー処理を中断＆再開する機能](https://stackstorm.com/2017/08/24/whats-stackstorm-2-4-already/) が、アプライアンスのデプロイをする際に良かったというお話をしていただきました。
 
-<資料>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/IpstphUUgD7cHO" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/HarumotoFukuda/nwst2-99682441" title="NW機器の設定自働化に向けたST2機能の活用" target="_blank">NW機器の設定自働化に向けたST2機能の活用</a> </strong> from <strong><a href="https://www.slideshare.net/HarumotoFukuda" target="_blank">Harumoto Fukuda</a></strong> </div>
 
 ---
 ### st2-docker ことはじめ
 **(杉本 周 / インターネットマルチフィード 技術部)**
 
-st2-docker を商用環境で利用されている立場から、st2-docker を使って HA でスケースする環境を作るにはどうするか、その場合の共有ストレージ環境をどう作るかといった、st2-docker にまつわるさまざまな運用 TIPS についてお話いただきました。
+[st2-docker](https://github.com/StackStorm/st2-docker) を商用環境で利用されている立場から、st2-docker を使って HA でスケースする環境を作るにはどうするか、その場合の共有ストレージ環境をどう作るかといった、st2-docker にまつわるさまざまな運用 TIPS についてお話いただきました。
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/6WDfnslNop4DTT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/shusugimoto1986/st2docker" title="st2-docker ことはじめ" target="_blank">st2-docker ことはじめ</a> </strong> from <strong><a href="https://www.slideshare.net/shusugimoto1986" target="_blank">Shu Sugimoto</a></strong> </div>
 
@@ -63,7 +60,7 @@ st2-docker を商用環境で利用されている立場から、st2-docker を�
 
 StackStorm v3.0 までのロードマップ (k8s HA のサポートや、各 GNU/Linux ディストリビューションのサポートスケジュールなど) についてお話いただきました。
 
-<資料>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/bImzTPntVJlwuJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ExtrJP/st2-community-update-99664789" title="ST2 Community Update" target="_blank">ST2 Community Update</a> </strong> from <strong><a href="https://www.slideshare.net/ExtrJP" target="_blank">エクストリーム ネットワークス / Extreme Networks Japan</a></strong> </div>
 
 ---
 次回もどうぞお楽しみに。
