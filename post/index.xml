@@ -6,10 +6,31 @@
     <description>Recent content in Posts on 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Apr 2018 10:51:48 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 30 May 2018 17:56:18 +0900</lastBuildDate>
     
 	<atom:link href="https://stackstorm.jp/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>第四回 StackStorm 勉強会レポート</title>
+      <link>https://stackstorm.jp/post/20180530_st2conference_report/</link>
+      <pubDate>Wed, 30 May 2018 17:56:18 +0900</pubDate>
+      
+      <guid>https://stackstorm.jp/post/20180530_st2conference_report/</guid>
+      <description>ソフトバンクさま主催の TechNight @Shiodome にて、第四回 StackStorm 勉強会を開催していただきました。
+多数のご来場いただきありがとうございました。
+また大変興味深い発表をしてくださった発表者の皆さま、会場をご提供くださいましたソフトバンクさま、差し入れをくださいました Extreme Networks さまに改めて感謝申し上げます。
+以下、それぞれの発表者（敬称略）の資料とサマリになります。各セッションの内容については @w4ym さんのレポート記事 が詳しいので併せてご覧ください。
+明日からできる、st2のActionの作り方 (萬治 渉 / NTTテクノクロス株式会社 IoTイノベーション事業部)
+Action の実装方法について詳しく解説いただきました。詳しくは資料をご参照ください。
+  データの民主化のためにStackStormを活用した事例 (佐伯 嘉康 / リクルートテクノロジーズ)
+社内の様々な部署で蓄積されたデータを共有の場所に蓄積し、共通の方法で自由に取得できるようにするプラットフォームを作ったという事例についてご紹介いただきました。
+  データの民主化のために StackStorm を活用した事例  from Yoshiyasu SAEKI 
+3万台のリスクから会社を守る。st2で24時間リモートワイプ (森 正樹 / ソフトバンク株式会社 IT本部 ネットワーク統括部 ネットワーク部 ネットワーク運用課)
+社内の情報システム部門が通常行っている PC の紛失に伴う VPN 証明書の失効処理を IFTTT 化させることで、それまで平日/日中対応だった紛失対応を 24-365 で自動対応化でき、運用コストが低減しセキュリティレベルが向上したというお話をしていただきました。
+NW機器・サーバ機器の設定自働化に向けたst2機能の活用案 (福田 晴元 / NTTソフトウエアイノベーションセンタ)
+StackStorm v2.4.0 から導入された ワークフロー処理を中断＆再開する機能 が、アプライアンスのデプロイをする際に良かったというお話をしていただきました。</description>
+    </item>
     
     <item>
       <title>Tech Night #8 / StackStorm 開催決定</title>

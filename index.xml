@@ -6,8 +6,93 @@
     <description>Recent content in 日本 StackStorm ユーザ会 / StackStorm User Group, Japan on 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Apr 2018 10:51:48 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 30 May 2018 17:56:18 +0900</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+      
+        
+          <item>
+            <title>第四回 StackStorm 勉強会レポート</title>
+            <link>https://stackstorm.jp/post/20180530_st2conference_report/</link>
+            <pubDate>Wed, 30 May 2018 17:56:18 +0900</pubDate>
+            
+            <guid>https://stackstorm.jp/post/20180530_st2conference_report/</guid>
+            <description>
+
+&lt;p&gt;ソフトバンクさま主催の &lt;a href=&#34;https://techsio.connpass.com/event/83273/&#34;&gt;TechNight @Shiodome&lt;/a&gt; にて、第四回 StackStorm 勉強会を開催していただきました。&lt;/p&gt;
+
+&lt;p&gt;多数のご来場いただきありがとうございました。&lt;br /&gt;
+また大変興味深い発表をしてくださった発表者の皆さま、会場をご提供くださいましたソフトバンクさま、差し入れをくださいました Extreme Networks さまに改めて感謝申し上げます。&lt;/p&gt;
+
+&lt;p&gt;以下、それぞれの発表者（敬称略）の資料とサマリになります。各セッションの内容については &lt;a href=&#34;http://w4yh.hatenablog.com/entry/2018/06/01/043757&#34;&gt;@w4ym さんのレポート記事&lt;/a&gt; が詳しいので併せてご覧ください。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;明日からできる-st2のactionの作り方&#34;&gt;明日からできる、st2のActionの作り方&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(萬治 渉 / NTTテクノクロス株式会社 IoTイノベーション事業部)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Action の実装方法について詳しく解説いただきました。詳しくは資料をご参照ください。&lt;/p&gt;
+
+&lt;div style=&#39;width: 595px;&#39;&gt;
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;3eb199555a30443fbf7321c96f847aab&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;データの民主化のためにstackstormを活用した事例&#34;&gt;データの民主化のためにStackStormを活用した事例&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(佐伯 嘉康 / リクルートテクノロジーズ)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;社内の様々な部署で蓄積されたデータを共有の場所に蓄積し、共通の方法で自由に取得できるようにするプラットフォームを作ったという事例についてご紹介いただきました。&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/fTvb1ChqjDRQWz&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/laclefyoshi/stackstorm-99437154&#34; title=&#34;データの民主化のために StackStorm を活用した事例&#34; target=&#34;_blank&#34;&gt;データの民主化のために StackStorm を活用した事例&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/laclefyoshi&#34; target=&#34;_blank&#34;&gt;Yoshiyasu SAEKI&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;3万台のリスクから会社を守る-st2で24時間リモートワイプ&#34;&gt;3万台のリスクから会社を守る。st2で24時間リモートワイプ&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(森 正樹 / ソフトバンク株式会社 IT本部 ネットワーク統括部 ネットワーク部 ネットワーク運用課)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;社内の情報システム部門が通常行っている PC の紛失に伴う VPN 証明書の失効処理を IFTTT 化させることで、それまで平日/日中対応だった紛失対応を 24-365 で自動対応化でき、運用コストが低減しセキュリティレベルが向上したというお話をしていただきました。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;nw機器-サーバ機器の設定自働化に向けたst2機能の活用案&#34;&gt;NW機器・サーバ機器の設定自働化に向けたst2機能の活用案&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(福田 晴元 / NTTソフトウエアイノベーションセンタ)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;StackStorm v2.4.0 から導入された &lt;a href=&#34;https://stackstorm.com/2017/08/24/whats-stackstorm-2-4-already/&#34;&gt;ワークフロー処理を中断＆再開する機能&lt;/a&gt; が、アプライアンスのデプロイをする際に良かったというお話をしていただきました。&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/IpstphUUgD7cHO&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/HarumotoFukuda/nwst2-99682441&#34; title=&#34;NW機器の設定自働化に向けたST2機能の活用&#34; target=&#34;_blank&#34;&gt;NW機器の設定自働化に向けたST2機能の活用&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/HarumotoFukuda&#34; target=&#34;_blank&#34;&gt;Harumoto Fukuda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;st2-docker-ことはじめ&#34;&gt;st2-docker ことはじめ&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(杉本 周 / インターネットマルチフィード 技術部)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/StackStorm/st2-docker&#34;&gt;st2-docker&lt;/a&gt; を商用環境で利用されている立場から、st2-docker を使って HA でスケースする環境を作るにはどうするか、その場合の共有ストレージ環境をどう作るかといった、st2-docker にまつわるさまざまな運用 TIPS についてお話いただきました。&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/6WDfnslNop4DTT&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/shusugimoto1986/st2docker&#34; title=&#34;st2-docker ことはじめ&#34; target=&#34;_blank&#34;&gt;st2-docker ことはじめ&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/shusugimoto1986&#34; target=&#34;_blank&#34;&gt;Shu Sugimoto&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;stackstorm-アップデート-ロードマップ&#34;&gt;StackStorm アップデート＆ロードマップ&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(Lindsay Hill / Extreme Networks)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;StackStorm v3.0 までのロードマップ (k8s HA のサポートや、各 GNU/Linux ディストリビューションのサポートスケジュールなど) についてお話いただきました。&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/bImzTPntVJlwuJ&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/ExtrJP/st2-community-update-99664789&#34; title=&#34;ST2 Community Update&#34; target=&#34;_blank&#34;&gt;ST2 Community Update&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/ExtrJP&#34; target=&#34;_blank&#34;&gt;エクストリーム ネットワークス / Extreme Networks Japan&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;次回もどうぞお楽しみに。&lt;/p&gt;
+</description>
+          </item>
+        
+      
     
       
         
