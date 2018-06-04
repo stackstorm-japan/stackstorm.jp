@@ -56,6 +56,8 @@
 
 &lt;p&gt;社内の情報システム部門が通常行っている PC の紛失に伴う VPN 証明書の失効処理を IFTTT 化させることで、それまで平日/日中対応だった紛失対応を 24-365 で自動対応化でき、運用コストが低減しセキュリティレベルが向上したというお話をしていただきました。&lt;/p&gt;
 
+&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/9wmG9XkABantyG&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/MasakiMori6/3st224&#34; title=&#34;3万台のリスクから会社を守るST2で24時間リモートワイプ&#34; target=&#34;_blank&#34;&gt;3万台のリスクから会社を守るST2で24時間リモートワイプ&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/MasakiMori6&#34; target=&#34;_blank&#34;&gt;Masaki Mori&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
 &lt;hr /&gt;
 
 &lt;h3 id=&#34;nw機器-サーバ機器の設定自働化に向けたst2機能の活用案&#34;&gt;NW機器・サーバ機器の設定自働化に向けたst2機能の活用案&lt;/h3&gt;
