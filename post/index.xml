@@ -6,10 +6,23 @@
     <description>Recent content in Posts on 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jun 2018 10:30:18 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jun 2018 10:44:23 +0900</lastBuildDate>
     
 	<atom:link href="https://stackstorm.jp/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>第四回 StackStorm 勉強会セッション動画公開</title>
+      <link>https://stackstorm.jp/post/20180619_st2conference_archive/</link>
+      <pubDate>Tue, 19 Jun 2018 10:44:23 +0900</pubDate>
+      
+      <guid>https://stackstorm.jp/post/20180619_st2conference_archive/</guid>
+      <description>先月ご紹介した 第四回 StackStorm 勉強会 のセッション動画が公開されました。
+
+(出典：Extreme Networks Japan チャンネル - YouTube)
+各社が何のために StackStorm を利用し、どのように運用されているかのエッセンスが詰まっており、
+運用の自動化を検討・実践されている方にとって価値ある内容だと思いますので、ぜひご覧ください！</description>
+    </item>
     
     <item>
       <title>第四回 StackStorm 勉強会レポート</title>
