@@ -2,6 +2,11 @@
     margin: 10px 0px;
 }
 
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .navbar-default {
   background-color: #f58220;
   border-color: #f58220;
