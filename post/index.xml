@@ -6,10 +6,22 @@
     <description>Recent content in Posts on 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jun 2018 10:44:23 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2019 10:45:44 +0900</lastBuildDate>
     
 	<atom:link href="https://stackstorm.jp/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>「StackStormを活用した運用自動化の実践」セミナー開催のお知らせ</title>
+      <link>https://stackstorm.jp/post/20190319_inform_an_event/</link>
+      <pubDate>Thu, 14 Mar 2019 10:45:44 +0900</pubDate>
+      
+      <guid>https://stackstorm.jp/post/20190319_inform_an_event/</guid>
+      <description> 2019/03/19 飯田橋 IIJ にて、インターネットマルチフィールド株式会社の杉本周氏による「StackStormを活用した運用自動化の実践」セミナー が開催されます。
+講演者の杉本氏は、黎明期から StackStorm を活用した運用効率化に取り組んでおり、st2-docker など活用した運用 など新しいトレンドを活用した運用に長けた、国内有数の StackStorm のエキスパートとして知られています。
+今回のセミナーでは、日本最大級の商用 IX サービス (JPNAP) の運用において、比較的最近リリースされた StackStorm の新機能 &amp;ldquo;Inquiries&amp;rdquo; (従来予め規定された通りの処理を行うワークフローの処理を、状況に応じて動的に処理を変更させられる機能) などを活用した運用自動化の実例をご紹介いただきます。
+実施詳細  日時：2019年3月19日18:00 (17:45 開場予定、19:30頃終了予定) 場所：東京都千代田区富士見2-10-2 (株式会社インターネットイニシアティブ 13階 Opera2) 参加費：無料 詳細・参加申し込み：https://iijlab-seminars.connpass.com/event/124111/  </description>
+    </item>
     
     <item>
       <title>第四回 StackStorm 勉強会セッション動画公開</title>

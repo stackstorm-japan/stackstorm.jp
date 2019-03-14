@@ -6,8 +6,39 @@
     <description>Recent content in 日本 StackStorm ユーザ会 / StackStorm User Group, Japan on 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jun 2018 10:44:23 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2019 10:45:44 +0900</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+      
+        
+          <item>
+            <title>「StackStormを活用した運用自動化の実践」セミナー開催のお知らせ</title>
+            <link>https://stackstorm.jp/post/20190319_inform_an_event/</link>
+            <pubDate>Thu, 14 Mar 2019 10:45:44 +0900</pubDate>
+            
+            <guid>https://stackstorm.jp/post/20190319_inform_an_event/</guid>
+            <description>
+
+&lt;p&gt;2019/03/19 飯田橋 IIJ にて、インターネットマルチフィールド株式会社の杉本周氏による&lt;a href=&#34;https://iijlab-seminars.connpass.com/event/124111/&#34;&gt;「StackStormを活用した運用自動化の実践」セミナー&lt;/a&gt; が開催されます。&lt;/p&gt;
+
+&lt;p&gt;講演者の杉本氏は、黎明期から StackStorm を活用した運用効率化に取り組んでおり、&lt;a href=&#34;http://localhost:1313/post/20180619_st2conference_archive/&#34;&gt;st2-docker など活用した運用&lt;/a&gt; など新しいトレンドを活用した運用に長けた、国内有数の StackStorm のエキスパートとして知られています。&lt;/p&gt;
+
+&lt;p&gt;今回のセミナーでは、&lt;a href=&#34;http://www.mfeed.co.jp/service/jpnap.html&#34;&gt;日本最大級の商用 IX サービス (JPNAP)&lt;/a&gt; の運用において、比較的最近リリースされた StackStorm の新機能 &lt;a href=&#34;https://docs.stackstorm.com/inquiries.html&#34;&gt;&amp;ldquo;Inquiries&amp;rdquo;&lt;/a&gt; (&lt;font color=&#34;Gray&#34;&gt;従来予め規定された通りの処理を行うワークフローの処理を、状況に応じて動的に処理を変更させられる機能&lt;/font&gt;) などを活用した運用自動化の実例をご紹介いただきます。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;実施詳細&#34;&gt;実施詳細&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;日時：2019年3月19日18:00 (17:45 開場予定、19:30頃終了予定)&lt;/li&gt;
+&lt;li&gt;場所：東京都千代田区富士見2-10-2 (&lt;a href=&#34;https://www.iij.ad.jp/company/about/map/head-office.html&#34;&gt;株式会社インターネットイニシアティブ 13階 Opera2&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;参加費：無料&lt;/li&gt;
+&lt;li&gt;詳細・参加申し込み：&lt;a href=&#34;https://iijlab-seminars.connpass.com/event/124111/&#34;&gt;https://iijlab-seminars.connpass.com/event/124111/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+          </item>
+        
+      
     
       
         

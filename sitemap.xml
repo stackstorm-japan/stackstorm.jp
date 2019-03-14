@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://stackstorm.jp/post/20190319_inform_an_event/</loc>
+    <lastmod>2019-03-14T12:30:40+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://stackstorm.jp/post/20180619_st2conference_archive/</loc>
     <lastmod>2018-06-19T14:20:29+09:00</lastmod>
   </url>
@@ -49,7 +54,7 @@
   
   <url>
     <loc>https://stackstorm.jp/post/</loc>
-    <lastmod>2018-06-19T14:20:29+09:00</lastmod>
+    <lastmod>2019-03-14T12:30:40+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -60,13 +65,13 @@
   
   <url>
     <loc>https://stackstorm.jp/tags/%E5%8B%89%E5%BC%B7%E4%BC%9A/</loc>
-    <lastmod>2018-06-19T14:20:29+09:00</lastmod>
+    <lastmod>2019-03-14T12:30:40+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://stackstorm.jp/</loc>
-    <lastmod>2018-06-19T14:20:29+09:00</lastmod>
+    <lastmod>2019-03-14T12:30:40+09:00</lastmod>
     <priority>0</priority>
   </url>
   
