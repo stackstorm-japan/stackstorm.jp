@@ -13,7 +13,7 @@ draft: true
 
 講演者の杉本氏は、黎明期から StackStorm を活用した運用効率化に取り組んでおり、[st2-docker など活用した運用](http://localhost:1313/post/20180619_st2conference_archive/) など新しいトレンドを活用した運用に長けた、国内有数の StackStorm のエキスパートとして知られています。
 
-今回のセミナーでは、従来予め規定された通りの処理を行うワークフローの処理を、状況に応じて動的に処理を変更させられる機能 "[Inquiries](https://docs.stackstorm.com/inquiries.html)" や、次期メジャーバージョン ([version 3.0](https://docs.stackstorm.com/roadmap.html#id1)) で正式リリースされる新しいワークフローエンジン "[Orquesta](https://docs.stackstorm.com/orquesta/index.html)" など最新技術を活用した運用自動化の実例をご紹介いただきます。
+今回のセミナーでは、[日本最大級の商用 IX サービス (JPNAP)](http://www.mfeed.co.jp/service/jpnap.html) の運用において、比較的最近リリースされた StackStorm の新機能 ["Inquiries"](https://docs.stackstorm.com/inquiries.html) (<font color="Gray">従来予め規定された通りの処理を行うワークフローの処理を、状況に応じて動的に処理を変更させられる機能</font>) などを活用した運用自動化の実例をご紹介いただきます。
 
 ---
 
