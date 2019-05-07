@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html class="no-js" lang="ja" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="StackStorm Meetup JP #5 レポート">
+    <meta name="author" content="Hiroyasu.OHYAMA">
+
+    <meta name="keyword" content="">
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <title>StackStorm Meetup JP #5 レポート &middot; 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</title>
+
+   	
+    
+        <link rel="stylesheet" href="https://stackstorm.jp/css/theme/united.css">
+    
+
+    <link rel="stylesheet" href="https://stackstorm.jp/css/font-awesome.min.css">
+
+   	
+   	<link rel="stylesheet" href="https://stackstorm.jp/css/style.css">
+    <link rel="stylesheet" href="https://stackstorm.jp/css/w3.css">
+
+
+    
+    <script src="https://stackstorm.jp/js/jquery.min-2.1.4.js"></script>
+    <script src="https://stackstorm.jp/js/bootstrap.min-3.3.5.js"></script>
+
+    
+    <link href="" rel="alternate" type="application/rss+xml" title="日本 StackStorm ユーザ会 / StackStorm User Group, Japan" />
+</head>
+<body lang="ja">
+    
+    <div class="container">
+    <div class="row">
+        <div class="navbar navbar-default " role="navigation">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="https://stackstorm.jp">日本 StackStorm ユーザ会 / StackStorm User Group, Japan</a>
+            </div>
+            <div class="navbar-collapse collapse navbar-responsive-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    
+                      <li><a href="/about_stackstorm"> StackStorm について </a></li>
+                    
+                      <li><a href="/about_this_community"> ユーザ会について </a></li>
+                    
+                      <li><a href="/contact_us"> お問い合わせ </a></li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-offset-1 col-md-10">
+			<h3>StackStorm Meetup JP #5 レポート</h3>
+				<span class="label label-primary">2019/05/07</span> in 
+				 using tags
+				
+					
+					<a href="/tags/%E5%8B%89%E5%BC%B7%E4%BC%9A">勉強会</a>
+				
+			</small>
+		</div>
+	</div>
+	<div class="row content">
+		<div class="col-md-offset-1 col-md-10">
+			<br>
+			
+
+<p>DMM.com にて <a href="https://stackstorm-jp.connpass.com/event/125804/">StackStorm Meetup JP #5</a> を開催しました。多数の StackStorm 実務者にご参加頂き、大変ありがとうございました。</p>
+
+<p>当日は後述の登壇者による発表のほか、StackStorm を運用・活用されているユーザ同士がお互いに、どのような環境で、どのように StackStorm を使っているかといったお話や、気になる StackStorm のトピック、ナレッジを積極的に共有し合うなど、非常に充実した内容でした。</p>
+
+<p>以下、当日ご登壇いただいた方々の発表をご紹介します。</p>
+
+<hr />
+
+<h3 id="詳解-stackstorm-1-pack-のテストの書き方">詳解 StackStorm ~ #1 Pack のテストの書き方</h3>
+
+<p><strong>(大山 裕泰 / 合同会社DMM.com ITインフラ本部)</strong></p>
+
+<p><a href="https://exchange.stackstorm.org/">StackStorm Exchange</a> の pack の機能改修・バグ修正を行った際、変更を <a href="https://github.com/StackStorm-Exchange">Exchange のリポジトリ</a> に反映させることはコミュニティ・変更者相互にメリットがあります<span style='color: grey;'>（コミュニティ側は pack の機能・品質が向上し、変更者側は変更したコードのメンテナンスをコミュニティに任せられるため）</span>。</p>
+
+<p>ここでは Exchange pack の変更 PR を作成した際に要求される、テストの概要、実行方法そして書き方について解説しています。</p>
+
+<p><iframe src="//www.slideshare.net/slideshow/embed_code/key/GutafwgHuQesuR" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"></div></p>
+
+<hr />
+
+<h3 id="st2-workflowの設計ポリシー">st2 Workflowの設計ポリシー</h3>
+
+<p><strong>(杉本 周 / インターネットマルチフィード株式会社 技術部)</strong></p>
+
+<p><a href="http://www.mfeed.co.jp/service/jpnap.html">日本最大級の商用 IX サービス (JPNAP)</a> の運用を StackStorm で効率化されてきた経験を基に、StackStorm で業務手順をコード化する際に頭を悩ませる様々なトピック<span style='color: grey;'>（pack 管理の粒度、設定・インベントリ情報の管理、Workflow の記述方法）</span>について、StackStorm の機能を最大限活用したガイドラインを紹介していただきました。</p>
+
+<p>複数のシステムに跨る作業手順を StackStorm の Workflow で記述する際に、とても参考になるエッセンスが詰まっています。</p>
+
+<p>(slide &ndash; coming soon)</p>
+
+<hr />
+
+<h3 id="lt-stackstormによるcloudslang対応とはなにだったのか">LT: StackStormによるCloudSlang対応とはなにだったのか</h3>
+
+<p><strong>(S.Komichevsen Matsu <a href="https://twitter.com/w4yh">@w4yh</a>)</strong></p>
+
+<p>StackStorm を最初期 (v0.3) から触ってきたベテラン StackStormer による、古く (StackStorm v0.12) から対応されてきた HPE 製ワークフローエンジン <a href="https://cloudslang.io/">CloudSlang</a> に込めた情熱と悲哀のお話です。面白かったです。</p>
+
+<div style="left: 0; width: 65%; height: 0; position: relative; padding-bottom: 70.5617%;"><iframe src="//speakerdeck.com/player/8dbc8c8429924be2b49ba60b32270a60" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="autoplay; encrypted-media"></iframe></div>
+
+<hr />
+
+<p>次回 StackStorm #6 も乞うご期待。</p>
+
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<hr>
+		</div>
+	</div>
+</div>
+
+    <div class="container">
+        <div class="row col-md-12">
+            <footer>
+                <div class="pull-left">
+                    <p>
+                        &copy; 2017 ~ StackStorm User Group, Japan ~ Powered By <a href="http://hugo.spf13.com">Hugo</a> - version: 0.56.0-DEV ~ <a href="https://stackstorm.jp/license">License</a>
+                    </p>
+                </div>
+
+                
+                <div class="pull-right">
+                    
+                    
+                    
+                        <a href="https://twitter.com/stack_storm" target="_blank">
+                        <i class="fa fa-twitter-square fa-2x"></i></a>
+                    
+                    
+                        <a href="https://github.com/StackStorm/st2" target="_blank">
+                        <i class="fa fa-github-square fa-2x"></i></a>
+                    
+                    
+                    
+                    
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    
+    </body>
+</html>
+

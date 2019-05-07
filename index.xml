@@ -5,8 +5,66 @@
     <description>Recent content in 日本 StackStorm ユーザ会 / StackStorm User Group, Japan on 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Mar 2019 10:45:44 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2019 11:51:42 +0900</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+      
+        
+          <item>
+            <title>StackStorm Meetup JP #5 レポート</title>
+            <link>https://stackstorm.jp/post/20190424_meetup_jp_5/</link>
+            <pubDate>Tue, 07 May 2019 11:51:42 +0900</pubDate>
+            
+            <guid>https://stackstorm.jp/post/20190424_meetup_jp_5/</guid>
+            <description>
+
+&lt;p&gt;DMM.com にて &lt;a href=&#34;https://stackstorm-jp.connpass.com/event/125804/&#34;&gt;StackStorm Meetup JP #5&lt;/a&gt; を開催しました。多数の StackStorm 実務者にご参加頂き、大変ありがとうございました。&lt;/p&gt;
+
+&lt;p&gt;当日は後述の登壇者による発表のほか、StackStorm を運用・活用されているユーザ同士がお互いに、どのような環境で、どのように StackStorm を使っているかといったお話や、気になる StackStorm のトピック、ナレッジを積極的に共有し合うなど、非常に充実した内容でした。&lt;/p&gt;
+
+&lt;p&gt;以下、当日ご登壇いただいた方々の発表をご紹介します。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;詳解-stackstorm-1-pack-のテストの書き方&#34;&gt;詳解 StackStorm ~ #1 Pack のテストの書き方&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(大山 裕泰 / 合同会社DMM.com ITインフラ本部)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://exchange.stackstorm.org/&#34;&gt;StackStorm Exchange&lt;/a&gt; の pack の機能改修・バグ修正を行った際、変更を &lt;a href=&#34;https://github.com/StackStorm-Exchange&#34;&gt;Exchange のリポジトリ&lt;/a&gt; に反映させることはコミュニティ・変更者相互にメリットがあります&lt;span style=&#39;color: grey;&#39;&gt;（コミュニティ側は pack の機能・品質が向上し、変更者側は変更したコードのメンテナンスをコミュニティに任せられるため）&lt;/span&gt;。&lt;/p&gt;
+
+&lt;p&gt;ここでは Exchange pack の変更 PR を作成した際に要求される、テストの概要、実行方法そして書き方について解説しています。&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/GutafwgHuQesuR&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;st2-workflowの設計ポリシー&#34;&gt;st2 Workflowの設計ポリシー&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(杉本 周 / インターネットマルチフィード株式会社 技術部)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.mfeed.co.jp/service/jpnap.html&#34;&gt;日本最大級の商用 IX サービス (JPNAP)&lt;/a&gt; の運用を StackStorm で効率化されてきた経験を基に、StackStorm で業務手順をコード化する際に頭を悩ませる様々なトピック&lt;span style=&#39;color: grey;&#39;&gt;（pack 管理の粒度、設定・インベントリ情報の管理、Workflow の記述方法）&lt;/span&gt;について、StackStorm の機能を最大限活用したガイドラインを紹介していただきました。&lt;/p&gt;
+
+&lt;p&gt;複数のシステムに跨る作業手順を StackStorm の Workflow で記述する際に、とても参考になるエッセンスが詰まっています。&lt;/p&gt;
+
+&lt;p&gt;(slide &amp;ndash; coming soon)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;lt-stackstormによるcloudslang対応とはなにだったのか&#34;&gt;LT: StackStormによるCloudSlang対応とはなにだったのか&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(S.Komichevsen Matsu &lt;a href=&#34;https://twitter.com/w4yh&#34;&gt;@w4yh&lt;/a&gt;)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;StackStorm を最初期 (v0.3) から触ってきたベテラン StackStormer による、古く (StackStorm v0.12) から対応されてきた HPE 製ワークフローエンジン &lt;a href=&#34;https://cloudslang.io/&#34;&gt;CloudSlang&lt;/a&gt; に込めた情熱と悲哀のお話です。面白かったです。&lt;/p&gt;
+
+&lt;div style=&#34;left: 0; width: 65%; height: 0; position: relative; padding-bottom: 70.5617%;&#34;&gt;&lt;iframe src=&#34;//speakerdeck.com/player/8dbc8c8429924be2b49ba60b32270a60&#34; style=&#34;border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;&#34; allowfullscreen scrolling=&#34;no&#34; allow=&#34;autoplay; encrypted-media&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;次回 StackStorm #6 も乞うご期待。&lt;/p&gt;
+</description>
+          </item>
+        
+      
     
       
         

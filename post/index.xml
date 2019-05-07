@@ -6,10 +6,29 @@
     <description>Recent content in Posts on 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Mar 2019 10:45:44 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2019 11:51:42 +0900</lastBuildDate>
     
 	<atom:link href="https://stackstorm.jp/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>StackStorm Meetup JP #5 レポート</title>
+      <link>https://stackstorm.jp/post/20190424_meetup_jp_5/</link>
+      <pubDate>Tue, 07 May 2019 11:51:42 +0900</pubDate>
+      
+      <guid>https://stackstorm.jp/post/20190424_meetup_jp_5/</guid>
+      <description>DMM.com にて StackStorm Meetup JP #5 を開催しました。多数の StackStorm 実務者にご参加頂き、大変ありがとうございました。
+当日は後述の登壇者による発表のほか、StackStorm を運用・活用されているユーザ同士がお互いに、どのような環境で、どのように StackStorm を使っているかといったお話や、気になる StackStorm のトピック、ナレッジを積極的に共有し合うなど、非常に充実した内容でした。
+以下、当日ご登壇いただいた方々の発表をご紹介します。
+詳解 StackStorm ~ #1 Pack のテストの書き方 (大山 裕泰 / 合同会社DMM.com ITインフラ本部)
+StackStorm Exchange の pack の機能改修・バグ修正を行った際、変更を Exchange のリポジトリ に反映させることはコミュニティ・変更者相互にメリットがあります（コミュニティ側は pack の機能・品質が向上し、変更者側は変更したコードのメンテナンスをコミュニティに任せられるため）。
+ここでは Exchange pack の変更 PR を作成した際に要求される、テストの概要、実行方法そして書き方について解説しています。
+ 
+st2 Workflowの設計ポリシー (杉本 周 / インターネットマルチフィード株式会社 技術部)
+日本最大級の商用 IX サービス (JPNAP) の運用を StackStorm で効率化されてきた経験を基に、StackStorm で業務手順をコード化する際に頭を悩ませる様々なトピック（pack 管理の粒度、設定・インベントリ情報の管理、Workflow の記述方法）について、StackStorm の機能を最大限活用したガイドラインを紹介していただきました。
+複数のシステムに跨る作業手順を StackStorm の Workflow で記述する際に、とても参考になるエッセンスが詰まっています。
+(slide &amp;ndash; coming soon)</description>
+    </item>
     
     <item>
       <title>「StackStormを活用した運用自動化の実践」セミナー開催のお知らせ</title>
