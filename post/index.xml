@@ -115,5 +115,18 @@ Slack上の日本語コミュニティ SlackのStackstorm-communityチームに�
 詳細：http://www.brocade.com/ja/about-us/events/stackstorm.html</description>
     </item>
     
+    <item>
+      <title>2019-05-15 ユーザ会 MTG 議事録</title>
+      <link>https://stackstorm.jp/post/20190515_proceedings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stackstorm.jp/post/20190515_proceedings/</guid>
+      <description>  日時：2019/05/15 18:30 ~ 19:00 場所：インターネットマルチフィード株式会社 出席者 (敬称略)  杉本 周 大山 裕泰 (記)   議題1: StackStorm Meetup JP #6 の日程  決定事項
+ 5&amp;frasl;29 で日程調整を行う 発表者：  大山 杉本 or 有志 (#community-japan で呼びかけ)   宿題
+ compass ページの作成 (大山) ソフトバンクの会場調整に失敗した場合、IM の会議室で調整 (杉本)   議題2: StackStorm Meetup JP #8 以降の Meetup の実施形態について  決定事項
+ 月一で開催する  検討事項
+ ハッカソンの形態を取り入れ、発表者の負担を軽減する方法を取り入れる   </description>
+    </item>
+    
   </channel>
 </rss>
