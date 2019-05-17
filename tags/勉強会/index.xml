@@ -27,7 +27,7 @@ StackStorm Exchange の pack の機能改修・バグ修正を行った際、変
 st2 Workflowの設計ポリシー (杉本 周 / インターネットマルチフィード株式会社 技術部)
 日本最大級の商用 IX サービス (JPNAP) の運用を StackStorm で効率化されてきた経験を基に、StackStorm で業務手順をコード化する際に頭を悩ませる様々なトピック（pack 管理の粒度、設定・インベントリ情報の管理、Workflow の記述方法）について、StackStorm の機能を最大限活用したガイドラインを紹介していただきました。
 複数のシステムに跨る作業手順を StackStorm の Workflow で記述する際に、とても参考になるエッセンスが詰まっています。
-(slide &amp;ndash; coming soon)</description>
+  StackStorm Workflowの設計  from Shu Sugimoto</description>
     </item>
     
     <item>
