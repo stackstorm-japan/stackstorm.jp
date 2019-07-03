@@ -17,7 +17,7 @@
       <pubDate>Wed, 03 Jul 2019 11:51:42 +0900</pubDate>
       
       <guid>https://stackstorm.jp/post/20190627_meetup_jp_7/</guid>
-      <description>ソフトバンクさまのご協力により StackStorm Meetup JP #7 を WeWork GINZA SIX にて開催致しました。ご来場いただいた皆さま、ご登壇くださった StackStormer の方々、そしてご支援・ご協力くださいました Extreme Networks, Inc. の佐野さん、ソフトバンク株式会社の小島さんをはじめ、関係者の皆さまに感謝申し上げます。
+      <description>ソフトバンクさまのご協力により StackStorm Meetup JP #7 を WeWork GINZA SIX にて開催致しました。ご来場いただいた皆さま、ご登壇くださった StackStormer の方々、そしてご支援・ご協力くださいました Extreme Networks K.K. の佐野さん、ソフトバンク株式会社の小島さんをはじめ、関係者の皆さまに感謝申し上げます。
 　以下では、当日ご登壇いただいた皆さまの発表を資料と共にご紹介致します。
 ST2 コミュニティアップデート (Extreme Networks, Inc. / Lindsay Hill)
 　先月の StackStorm 公式ブログのエントリ- Dmitri says “good bye” にて公表された、StackStorm を Linux Foundation に移管する件について、何がどのように変わるのかについて説明してくれています。この他に各 GNU/Linux ディストリビューションのサポートと、StackStorm のロードマップについてお話しいただきました。
