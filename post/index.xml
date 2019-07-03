@@ -6,10 +6,27 @@
     <description>Recent content in Posts on 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 May 2019 11:51:42 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2019 11:51:42 +0900</lastBuildDate>
     
 	<atom:link href="https://stackstorm.jp/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>StackStorm Meetup JP #7(@WeWork銀座) レポート</title>
+      <link>https://stackstorm.jp/post/20190627_meetup_jp_7/</link>
+      <pubDate>Wed, 03 Jul 2019 11:51:42 +0900</pubDate>
+      
+      <guid>https://stackstorm.jp/post/20190627_meetup_jp_7/</guid>
+      <description>ソフトバンクさまのご協力により StackStorm Meetup JP #7 を WeWork GINZA SIX にて開催致しました。ご来場いただいた皆さま、ご登壇くださった StackStormer の方々、そしてご支援・ご協力くださいました Extreme Networks, Inc. の佐野さん、ソフトバンク株式会社の小島さんをはじめ、関係者の皆さまに感謝申し上げます。
+　以下では、当日ご登壇いただいた皆さまの発表を資料と共にご紹介致します。
+ST2 コミュニティアップデート (Extreme Networks, Inc. / Lindsay Hill)
+　先月の StackStorm 公式ブログのエントリ- Dmitri says “good bye” にて公表された、StackStorm を Linux Foundation に移管する件について、何がどのように変わるのかについて説明してくれています。この他に各 GNU/Linux ディストリビューションのサポートと、StackStorm のロードマップについてお話しいただきました。
+Lindsay の発表は諸事情により動画での発表だったため YouTube にアップロードされていますので是非ご覧ください。
+ StackStormを使ったサポート業務の自動化の紹介 (日商エレクトロニクス株式会社 / 管野 智祥)
+　ご登壇いただいた菅野さんは以前より、New Relic や StackStorm などを活用した SRE に取り組まれており、この日はカスタマーサポート業務において StackStorm をどのように活用されているかついてお話しいただきました。
+(資料がアップロードされ次第、更新致します)
+StackStormを1年間データ基盤で使ってみてぶつかったトラブルとその解決策の共有 (株式会社リクルートテクノロジーズ / 佐伯 嘉康)</description>
+    </item>
     
     <item>
       <title>StackStorm Meetup JP #5 レポート</title>
