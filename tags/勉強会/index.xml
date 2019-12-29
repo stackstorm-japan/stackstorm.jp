@@ -6,10 +6,26 @@
     <description>Recent content in 勉強会 on 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jul 2019 11:51:42 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2019 07:40:00 +0900</lastBuildDate>
     
 	<atom:link href="https://stackstorm.jp/tags/%E5%8B%89%E5%BC%B7%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>StackStorm Meetup JP #8(@MF) レポート</title>
+      <link>https://stackstorm.jp/post/20191226_meetup8/</link>
+      <pubDate>Sun, 29 Dec 2019 07:40:00 +0900</pubDate>
+      
+      <guid>https://stackstorm.jp/post/20191226_meetup8/</guid>
+      <description>2019/12/26(木) に インターネットマルチフィード株式会社 さまのご協力のもと、StackStorm Meetup JP#8 が実施できました。会場を提供くださいましたインターネットマルチフィードさま、運営にご協力くださいました同社技術部の皆さま、そしてご来場くださったユーザの方々に感謝申し上げます。
+　半年ぶりの開催で、イベントページの告知も開催 10 日前という状況にも関わらず、多数のユーザが集まり大変驚きました。
+参加されたユーザの多くが StackStorm を最近使い始めたという方々で「Infrastructure as Code や運用自動化を実現するための手法として興味を持って来た」といったお話をされていました。また以前から StackStorm を使っているユーザの参加者同士で、開発や運用の困りどころについて相談し、その場で解決方法を教え合うといった事も行われ、有意義なイベントになったのではないかと思います。
+　今回は StackStorm ユーザ会では初めて、もくもく会 （参加者が登壇者の発表内容を聞くという形式ではなく、参加者が各々の StackStorm に関する課題を持ち込み、もくもくと作業し適宜周りのユーザに尋ねたり、教えあったりする） 形式で Meetup イベントを開催しました。参加したユーザは「Orquesta を初めてさわってみる」や「Python Runner のアクションのテストを書く」などといった課題について取り組み、適宜ユーザ同士での質問・回答が行われ、また回答に対する補足を別のユーザがするといった光景も見られました。
+　また今回のイベントでは、初めて StackStorm を触る人向けのハンズオンも実施しましたが、時間の関係で十分な内容ではなかった為、ここで少しだけ補足させてください。
+　JPNIC が毎年開催されている Internet Week において以前、StackStorm 初心者向けのハンズオン というセッションを実施致しました。当日使用した資料は GitHub から閲覧 でき、またハンズオン資料に記載されている実行環境を構築する方法も 同リポジトリの README にまとめてありますので、ぜひご活用ください。
+　またユーザ会からの連絡や、ユーザ会に相談したいこと、他のユーザに聞きたいことなどございましたら Slack にログイン いただき、#community-japan チャンネルでご連絡ください。
+　次回の日程・開催場所などの詳細は、connpass の StackStorm ユーザ会のグループ でご連絡致します（2020年02月中旬頃を予定しています）。</description>
+    </item>
     
     <item>
       <title>StackStorm Meetup JP #7(@WeWork銀座) レポート</title>

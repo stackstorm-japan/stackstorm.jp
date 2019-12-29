@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html class="no-js" lang="ja" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="StackStorm Meetup JP #8(@MF) レポート">
+    <meta name="author" content="Hiroyasu.OHYAMA">
+
+    <meta name="keyword" content="">
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <title>StackStorm Meetup JP #8(@MF) レポート &middot; 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</title>
+
+   	
+    
+        <link rel="stylesheet" href="https://stackstorm.jp/css/theme/united.css">
+    
+
+    <link rel="stylesheet" href="https://stackstorm.jp/css/font-awesome.min.css">
+
+   	
+   	<link rel="stylesheet" href="https://stackstorm.jp/css/style.css">
+    <link rel="stylesheet" href="https://stackstorm.jp/css/w3.css">
+
+
+    
+    <script src="https://stackstorm.jp/js/jquery.min-2.1.4.js"></script>
+    <script src="https://stackstorm.jp/js/bootstrap.min-3.3.5.js"></script>
+
+    
+    <link href="" rel="alternate" type="application/rss+xml" title="日本 StackStorm ユーザ会 / StackStorm User Group, Japan" />
+</head>
+<body lang="ja">
+    
+    <div class="container">
+    <div class="row">
+        <div class="navbar navbar-default " role="navigation">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="https://stackstorm.jp">日本 StackStorm ユーザ会 / StackStorm User Group, Japan</a>
+            </div>
+            <div class="navbar-collapse collapse navbar-responsive-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    
+                      <li><a href="/about_stackstorm"> StackStorm について </a></li>
+                    
+                      <li><a href="/about_this_community"> ユーザ会について </a></li>
+                    
+                      <li><a href="/contact_us"> お問い合わせ </a></li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-offset-1 col-md-10">
+			<h3>StackStorm Meetup JP #8(@MF) レポート</h3>
+				<span class="label label-primary">2019/12/29</span> in 
+				 using tags
+				
+					
+					<a href="/tags/%E5%8B%89%E5%BC%B7%E4%BC%9A">勉強会</a>
+				
+			</small>
+		</div>
+	</div>
+	<div class="row content">
+		<div class="col-md-offset-1 col-md-10">
+			<br>
+			<p>　2019/12/26(木) に <a href="https://www.mfeed.ad.jp/">インターネットマルチフィード株式会社</a> さまのご協力のもと、<a href="https://stackstorm-jp.connpass.com/event/159554/">StackStorm Meetup JP#8</a> が実施できました。会場を提供くださいましたインターネットマルチフィードさま、運営にご協力くださいました同社技術部の皆さま、そしてご来場くださったユーザの方々に感謝申し上げます。</p>
+
+<p>　半年ぶりの開催で、イベントページの告知も開催 10 日前という状況にも関わらず、多数のユーザが集まり大変驚きました。<br />
+　参加されたユーザの多くが StackStorm を最近使い始めたという方々で「Infrastructure as Code や運用自動化を実現するための手法として興味を持って来た」といったお話をされていました。また以前から StackStorm を使っているユーザの参加者同士で、開発や運用の困りどころについて相談し、その場で解決方法を教え合うといった事も行われ、有意義なイベントになったのではないかと思います。</p>
+
+<p><img src="https://github.com/stackstorm-japan/stackstorm.jp/blob/master/static/img/20191226_meetup8_content.png?raw=true" alt="" /></p>
+
+<p>　今回は StackStorm ユーザ会では初めて、もくもく会 <span style='color: gray;'>（参加者が登壇者の発表内容を聞くという形式ではなく、参加者が各々の StackStorm に関する課題を持ち込み、もくもくと作業し適宜周りのユーザに尋ねたり、教えあったりする）</span> 形式で Meetup イベントを開催しました。参加したユーザは「<a href="https://docs.stackstorm.com/orquesta/index.html">Orquesta</a> を初めてさわってみる」や「<a href="https://docs.stackstorm.com/reference/runners.html#python-runner-python-script">Python Runner</a> のアクションのテストを書く」などといった課題について取り組み、適宜ユーザ同士での質問・回答が行われ、また回答に対する補足を別のユーザがするといった光景も見られました。</p>
+
+<p>　また今回のイベントでは、初めて StackStorm を触る人向けのハンズオンも実施しましたが、時間の関係で十分な内容ではなかった為、ここで少しだけ補足させてください。</p>
+
+<p>　<a href="https://www.nic.ad.jp/">JPNIC</a> が毎年開催されている Internet Week において以前、<a href="https://www.nic.ad.jp/iw2017/program/h3/">StackStorm 初心者向けのハンズオン</a> というセッションを実施致しました。当日使用した資料は <a href="https://github.com/internetweek2017-st2/handson_documents/tree/master/slide">GitHub から閲覧</a> でき、またハンズオン資料に記載されている実行環境を構築する方法も <a href="https://github.com/internetweek2017-st2/handson_documents#vagrant-%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89%E6%96%B9%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6">同リポジトリの README</a> にまとめてありますので、ぜひご活用ください。</p>
+
+<p>　またユーザ会からの連絡や、ユーザ会に相談したいこと、他のユーザに聞きたいことなどございましたら <a href="https://stackstorm.com/#community">Slack にログイン</a> いただき、#community-japan チャンネルでご連絡ください。</p>
+
+<p>　次回の日程・開催場所などの詳細は、<a href="https://stackstorm-jp.connpass.com/">connpass の StackStorm ユーザ会のグループ</a> でご連絡致します（2020年02月中旬頃を予定しています）。</p>
+
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<hr>
+		</div>
+	</div>
+</div>
+
+    <div class="container">
+        <div class="row col-md-12">
+            <footer>
+                <div class="pull-left">
+                    <p>
+                        &copy; 2017 ~ StackStorm User Group, Japan ~ Powered By <a href="http://hugo.spf13.com">Hugo</a> - version: 0.55.5 ~ <a href="https://stackstorm.jp/license">License</a>
+                    </p>
+                </div>
+
+                
+                <div class="pull-right">
+                    
+                    
+                    
+                        <a href="https://twitter.com/stack_storm" target="_blank">
+                        <i class="fa fa-twitter-square fa-2x"></i></a>
+                    
+                    
+                        <a href="https://github.com/StackStorm/st2" target="_blank">
+                        <i class="fa fa-github-square fa-2x"></i></a>
+                    
+                    
+                    
+                    
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    
+    </body>
+</html>
+

@@ -5,8 +5,37 @@
     <description>Recent content in 日本 StackStorm ユーザ会 / StackStorm User Group, Japan on 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jul 2019 11:51:42 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2019 07:40:00 +0900</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+      
+        
+          <item>
+            <title>StackStorm Meetup JP #8(@MF) レポート</title>
+            <link>https://stackstorm.jp/post/20191226_meetup8/</link>
+            <pubDate>Sun, 29 Dec 2019 07:40:00 +0900</pubDate>
+            
+            <guid>https://stackstorm.jp/post/20191226_meetup8/</guid>
+            <description>&lt;p&gt;　2019/12/26(木) に &lt;a href=&#34;https://www.mfeed.ad.jp/&#34;&gt;インターネットマルチフィード株式会社&lt;/a&gt; さまのご協力のもと、&lt;a href=&#34;https://stackstorm-jp.connpass.com/event/159554/&#34;&gt;StackStorm Meetup JP#8&lt;/a&gt; が実施できました。会場を提供くださいましたインターネットマルチフィードさま、運営にご協力くださいました同社技術部の皆さま、そしてご来場くださったユーザの方々に感謝申し上げます。&lt;/p&gt;
+
+&lt;p&gt;　半年ぶりの開催で、イベントページの告知も開催 10 日前という状況にも関わらず、多数のユーザが集まり大変驚きました。&lt;br /&gt;
+　参加されたユーザの多くが StackStorm を最近使い始めたという方々で「Infrastructure as Code や運用自動化を実現するための手法として興味を持って来た」といったお話をされていました。また以前から StackStorm を使っているユーザの参加者同士で、開発や運用の困りどころについて相談し、その場で解決方法を教え合うといった事も行われ、有意義なイベントになったのではないかと思います。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/stackstorm-japan/stackstorm.jp/blob/master/static/img/20191226_meetup8_content.png?raw=true&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;　今回は StackStorm ユーザ会では初めて、もくもく会 &lt;span style=&#39;color: gray;&#39;&gt;（参加者が登壇者の発表内容を聞くという形式ではなく、参加者が各々の StackStorm に関する課題を持ち込み、もくもくと作業し適宜周りのユーザに尋ねたり、教えあったりする）&lt;/span&gt; 形式で Meetup イベントを開催しました。参加したユーザは「&lt;a href=&#34;https://docs.stackstorm.com/orquesta/index.html&#34;&gt;Orquesta&lt;/a&gt; を初めてさわってみる」や「&lt;a href=&#34;https://docs.stackstorm.com/reference/runners.html#python-runner-python-script&#34;&gt;Python Runner&lt;/a&gt; のアクションのテストを書く」などといった課題について取り組み、適宜ユーザ同士での質問・回答が行われ、また回答に対する補足を別のユーザがするといった光景も見られました。&lt;/p&gt;
+
+&lt;p&gt;　また今回のイベントでは、初めて StackStorm を触る人向けのハンズオンも実施しましたが、時間の関係で十分な内容ではなかった為、ここで少しだけ補足させてください。&lt;/p&gt;
+
+&lt;p&gt;　&lt;a href=&#34;https://www.nic.ad.jp/&#34;&gt;JPNIC&lt;/a&gt; が毎年開催されている Internet Week において以前、&lt;a href=&#34;https://www.nic.ad.jp/iw2017/program/h3/&#34;&gt;StackStorm 初心者向けのハンズオン&lt;/a&gt; というセッションを実施致しました。当日使用した資料は &lt;a href=&#34;https://github.com/internetweek2017-st2/handson_documents/tree/master/slide&#34;&gt;GitHub から閲覧&lt;/a&gt; でき、またハンズオン資料に記載されている実行環境を構築する方法も &lt;a href=&#34;https://github.com/internetweek2017-st2/handson_documents#vagrant-%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89%E6%96%B9%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6&#34;&gt;同リポジトリの README&lt;/a&gt; にまとめてありますので、ぜひご活用ください。&lt;/p&gt;
+
+&lt;p&gt;　またユーザ会からの連絡や、ユーザ会に相談したいこと、他のユーザに聞きたいことなどございましたら &lt;a href=&#34;https://stackstorm.com/#community&#34;&gt;Slack にログイン&lt;/a&gt; いただき、#community-japan チャンネルでご連絡ください。&lt;/p&gt;
+
+&lt;p&gt;　次回の日程・開催場所などの詳細は、&lt;a href=&#34;https://stackstorm-jp.connpass.com/&#34;&gt;connpass の StackStorm ユーザ会のグループ&lt;/a&gt; でご連絡致します（2020年02月中旬頃を予定しています）。&lt;/p&gt;
+</description>
+          </item>
+        
+      
     
       
         
