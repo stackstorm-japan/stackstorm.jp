@@ -6,10 +6,22 @@
     <description>Recent content in Posts on 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Dec 2019 07:40:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2020 10:15:00 +0900</lastBuildDate>
     
 	<atom:link href="https://stackstorm.jp/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>StackStorm TSC Meeting 参加報告 &amp; もくもく会のお知らせ</title>
+      <link>https://stackstorm.jp/post/2020095_tsc_meeting/</link>
+      <pubDate>Mon, 28 Sep 2020 10:15:00 +0900</pubDate>
+      
+      <guid>https://stackstorm.jp/post/2020095_tsc_meeting/</guid>
+      <description>StackStorm TSC Meeting 参加報告 　昨年のちょうど今頃(2019-10-7)、Extreme Networks が StackStorm を The Linux Foundation に移管するという発表 をしました。更に、今年の5月に EWC (Enterprise 版 StackStorm) も The Linux Foundation に移管する という発表がなされました。
+　それまで StackStorm 及び EWC の開発は、開発ベンダーである Extreme Networks のもとで行われてきましたが、その後 The Linux Foundation のもとで行われることになりました。
+　これに伴い、以下のような開発・サポート体制の再編とガバナンスの変更が行われました。
+ 2019年6月に Extreme Networks を退職した、StackStorm 創設メンバー Dimitri Zimine 氏 をトップに、Extreme Networks 以外のメンバーを含めた開発コミュニティを組織 (c.f. st2/OWNERS)。 開発方針は Technical Steering Committee(TSC) で協議・決定。なお TSC は st2/OWNERS で規定されている開発コミュニティメンバーのうち、Maintainers 以上のロールのメンバーによって構成。  　この TSC Meeting は（日本時間で）毎月第一水曜日の午前 01:30 ~ 02:30 にオンラインで開催 され、誰でも自由に参加することができます（TSC メンバー以外の発言は制限されているため、もしご参加される際はマイクの設定をミュートにしてご参加ください）。</description>
+    </item>
     
     <item>
       <title>StackStorm Meetup JP #8(@MF) レポート</title>

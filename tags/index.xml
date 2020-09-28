@@ -6,10 +6,19 @@
     <description>Recent content in Tags on 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Dec 2019 07:40:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2020 10:15:00 +0900</lastBuildDate>
     
 	<atom:link href="https://stackstorm.jp/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>お知らせ</title>
+      <link>https://stackstorm.jp/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
+      <pubDate>Mon, 28 Sep 2020 10:15:00 +0900</pubDate>
+      
+      <guid>https://stackstorm.jp/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>勉強会</title>

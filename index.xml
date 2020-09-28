@@ -5,8 +5,80 @@
     <description>Recent content in 日本 StackStorm ユーザ会 / StackStorm User Group, Japan on 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Dec 2019 07:40:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2020 10:15:00 +0900</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+      
+        
+          <item>
+            <title>StackStorm TSC Meeting 参加報告 &amp; もくもく会のお知らせ</title>
+            <link>https://stackstorm.jp/post/2020095_tsc_meeting/</link>
+            <pubDate>Mon, 28 Sep 2020 10:15:00 +0900</pubDate>
+            
+            <guid>https://stackstorm.jp/post/2020095_tsc_meeting/</guid>
+            <description>
+
+&lt;h3 id=&#34;stackstorm-tsc-meeting-参加報告&#34;&gt;StackStorm TSC Meeting 参加報告&lt;/h3&gt;
+
+&lt;p&gt;　昨年のちょうど今頃(2019-10-7)、&lt;a href=&#34;https://investor.extremenetworks.com/news-releases/news-release-details/extreme-networks-transitions-stackstorm-linux-foundation&#34;&gt;Extreme Networks が StackStorm を The Linux Foundation に移管するという発表&lt;/a&gt; をしました。更に、今年の5月に &lt;a href=&#34;https://stackstorm.com/2020/05/27/extreme-networks-donates-ewc-to-linux-foundation/&#34;&gt;EWC (Enterprise 版 StackStorm) も The Linux Foundation に移管する&lt;/a&gt; という発表がなされました。&lt;/p&gt;
+
+&lt;p&gt;　それまで StackStorm 及び EWC の開発は、開発ベンダーである Extreme Networks のもとで行われてきましたが、その後 The Linux Foundation のもとで行われることになりました。&lt;/p&gt;
+
+&lt;p&gt;　これに伴い、以下のような開発・サポート体制の再編とガバナンスの変更が行われました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackstorm.com/2019/06/06/dmitri-says-good-bye/&#34;&gt;2019年6月に Extreme Networks を退職した、StackStorm 創設メンバー Dimitri Zimine 氏&lt;/a&gt; をトップに、Extreme Networks 以外のメンバーを含めた開発コミュニティを組織 (c.f. &lt;a href=&#34;https://github.com/StackStorm/st2/blob/master/OWNERS.md&#34;&gt;st2/OWNERS&lt;/a&gt;)。&lt;/li&gt;
+&lt;li&gt;開発方針は Technical Steering Committee(TSC) で協議・決定。なお TSC は &lt;a href=&#34;https://github.com/StackStorm/st2/blob/master/OWNERS.md&#34;&gt;st2/OWNERS&lt;/a&gt; で規定されている開発コミュニティメンバーのうち、Maintainers 以上のロールのメンバーによって構成。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;　この TSC Meeting は&lt;a href=&#34;https://github.com/StackStorm/discussions/issues/33&#34;&gt;（日本時間で）毎月第一水曜日の午前 01:30 ~ 02:30 にオンラインで開催&lt;/a&gt; され、誰でも自由に参加することができます（TSC メンバー以外の発言は制限されているため、もしご参加される際はマイクの設定をミュートにしてご参加ください）。&lt;/p&gt;
+
+&lt;p&gt;　&lt;a href=&#34;https://github.com/StackStorm/discussions/issues/47&#34;&gt;前回の TSC Meeting&lt;/a&gt; は 2020/09/02(水) の深夜 (日本時間) に開催されました。そこで、メンテナの &lt;a href=&#34;https://github.com/armab&#34;&gt;Eugen Cusmaunsa (@armab) 氏&lt;/a&gt; から日本のユーザコミュニティの活動について話してほしい旨の要請を受け、日本 StackStorm ユーザ会の発足経緯からこれまでの活動と、現在の活動課題についてお話をさせていただきました。以下は、その際話した内容を動画にしてものです。&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/VuF3hKA4m9Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;　内容を簡単にまとめると、&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;　これまでオフラインの勉強会を通じて ST2 ユーザの交流や情報交換を図ってきましたが、参加人数の減少に伴い運営側の継続モチベーションも低下してきてしまう負のスパイラルに陥りかけている。
+　今後はオンラインでの勉強会を軸に、これまで地理的な理由で参加できなかったユーザも含めた ST2 ユーザとの交流・情報交換を図っていく。
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;　といった話をさせていただきました。&lt;/p&gt;
+
+&lt;p&gt;　プレゼン後 ST2 メンテナの &lt;a href=&#34;https://github.com/punkrokk&#34;&gt;JP Bourget 氏&lt;/a&gt; から「何か我々で協力できることはないか」といった質問を頂きました。&lt;/p&gt;
+
+&lt;p&gt;　これに対して『日本の勉強会にオンラインで参加してもらえると嬉しいかも』と口走ってしまいましたが、すぐに &lt;a href=&#34;https://connpass.com/event/52313/&#34;&gt;2017 年の ST2 勉強会&lt;/a&gt;に Dimitri Zimine 氏が来てくれた際を思い出し『ただ日本にはまだ言語障壁があるので、せっかく喋って頂いても理解されない可能性がある』と言ったところ、Dimitri から以下のコメントがありました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/stackstorm-japan/stackstorm.jp/blob/master/static/img/20200928/dimitri_message.png?raw=true&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;　「ほとんどのアメリカ人も僕の言っていること理解していないよ（笑）」&lt;/p&gt;
+
+&lt;p&gt;　その場での具体的な提案はできませんでしたが、今回の TSC ミーティングによって開発コミュニティとの協力関係を築くことができたので、今後もゆるーく活動を続けていこうと思います。
+　&lt;br /&gt;
+　&lt;/p&gt;
+
+&lt;h3 id=&#34;もくもく会-定期-実施のお知らせ&#34;&gt;もくもく会（定期）実施のお知らせ&lt;/h3&gt;
+
+&lt;p&gt;　こうした状況を踏まえ、気軽に StackStorm ユーザ同士がコミュニケーションや情報交換ができるよう、以下の Discord サーバをご用意致しました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/mFnsb9&#34;&gt;https://discord.gg/mFnsb9&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;　またここで、日本語でのユーザ同士の相談や簡単なオンライン勉強会が気軽にできるよう、&lt;strong&gt;毎週木曜の 18:00 ~ 19:00&lt;/strong&gt; にもくもく会を開催致します。当該 Discord サーバの &lt;code&gt;勉強会/もくもく会&lt;/code&gt; のボイスチャンネルを選択されれば、こちらにご参加いただけます。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/stackstorm-japan/stackstorm.jp/blob/master/static/img/20200928/discord_ss.png?raw=true&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;　開催するといっても、基本的には大山（他）がメンター役として待機し、参加者のご質問に随時お応えするという、ゆるい感じで開催致します。もし StackStorm でわからない、困ったことがあるといった方だけでなく、ST2 ユーザとして他のユーザとお喋りしたいといった方も、ぜひこちらをご活用ください。&lt;br /&gt;
+　またメンター役になっても良いという方も大歓迎です。メンター役を引き受けてくださった方へ、ユーザ会から素敵なプレゼントをご用意しております。&lt;/p&gt;
+
+&lt;p&gt;　オンサイトでの交流がしづらい状況となってしまいましたが、逆にこれまで地理的な問題でご参加いただけなかったユーザの方々もご参加頂けるよう、オンラインでのカジュアルな交流や情報交換ができるような活動を続けていきたいと思いますので、引き続きどうぞご参加・ご協力のほどお願い致します。&lt;/p&gt;
+</description>
+          </item>
+        
+      
     
       
         
